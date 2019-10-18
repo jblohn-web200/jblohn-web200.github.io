@@ -1,0 +1,148 @@
+html {
+	font-size: 16px;
+}
+
+body {
+	background-color: #d6dede;
+}
+
+h1 {
+	font-family: 'Open Sans', Verdana, Arial, sans-serif;
+	text-align: center;
+	background-color: #a5b9b9;
+	line-height: 3.5em;
+	font-weight: 500;
+}
+
+footer {
+	font-family: 'Open Sans', Verdana, Arial, sans-serif;
+	text-align: center;
+	background-color: #a5b9b9;
+	padding-top: 20px;
+	font-weight: 400;
+}
+
+footer a {
+	display: block;
+}
+
+#main {
+	width: 100%;
+	max-width: 100%;
+	margin: 0px auto;
+}
+
+section {
+	margin: 0px auto;
+}
+
+figure {
+	display: block;
+	text-align: center;
+	height: 340px;
+}
+
+figure img.widepic {
+	width: 320px;
+	height: 244px;
+}
+
+figure img.today {
+	width: 320px;
+	height: 180px;
+}
+
+figure img.longpic {
+	width: 240px;
+	height: 320px;
+}
+
+figure img.shoppic {
+	width: 180px;
+	height: 320px;
+}
+
+#bannerpic {
+	background-image: url("images/outdoors.jpg");
+	background-repeat: no-repeat;
+	margin-left: 200px;
+}
+
+#h1background {
+	background-color: #a5b9b9;
+}
+
+p, figcaption{
+	color: #517f7f;
+}
+
+h1 {
+	color: #6A3D3B;
+}
+
+p {
+	font-family: 'IBM Plex Sans', Verdana, Arial, sans-serif;
+	font-weight: 600;
+}
+
+figcaption {
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	font-weight: 500;
+	font-size: .9em;
+}
+
+a {
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	text-decoration: none;
+}
+
+a:link {
+	color: #6A3D3B;
+}
+
+a:visited {
+	color: #517f7f;
+}
+
+a:hover {
+	color: #D47969;
+	font-size: 1.5em;
+}
+
+.column {
+	width: 33%;
+	float: left;
+	margin: 10px auto;
+}
+
+.pcolumn {
+	float: left;
+	width: 33%;
+	margin: 10px 5px;
+}
+
+.toTop {
+	text-align: center;
+}
+
+.toTop:link {
+	color: black;
+}
+
+.conclusion {
+	clear: left;
+	width: 90%;
+	max-width: 90%;
+	margin: 0px auto;
+	padding: 20px;
+}
+
+.leftpic {
+	float: left;
+	margin-right: 10px;
+}
+
+.rightpic {
+	float: right;
+	margin-left: 10px;
+}
